@@ -21,7 +21,7 @@ defmodule Note2rss.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:httpoison, "~> 2.2.1"},
+      {:httpoison, "~> 3.0.0"},
       {:floki, "~> 0.35.3"},
       {:poison, "~> 5.0"},
       {:xml_builder, "~> 2.1"}
