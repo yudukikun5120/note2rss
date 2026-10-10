@@ -22,7 +22,7 @@ defmodule Note2rss.MixProject do
   defp deps do
     [
       {:httpoison, "~> 3.0.0"},
-      {:floki, "~> 0.35.3"},
+      {:floki, "~> 0.38.4"},
       {:poison, "~> 5.0"},
       {:xml_builder, "~> 2.1"}
     ]
