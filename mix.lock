@@ -14,5 +14,5 @@
   "ssl_verify_fun": {:hex, :ssl_verify_fun, "1.1.7", "354c321cf377240c7b8716899e182ce4890c5938111a1296add3ec74cf1715df", [:make, :mix, :rebar3], [], "hexpm", "fe4c190e8f37401d30167c8c405eda19469f34577987c76dde613e838bbc67f8"},
   "unicode_util_compat": {:hex, :unicode_util_compat, "0.7.0", "bc84380c9ab48177092f43ac89e4dfa2c6d62b40b8bd132b1059ecc7232f9a78", [:rebar3], [], "hexpm", "25eee6d67df61960cf6a794239566599b09e17e668d3700247bc498638152521"},
   "webtransport": {:hex, :webtransport, "0.4.8", "3c340d7ea381e3f639ece90378d85fb46b1da4eece17bba3223051e833166501", [:rebar3], [{:h2, "~> 0.12", [hex: :h2, repo: "hexpm", optional: false]}, {:quic, "~> 2.0", [hex: :quic, repo: "hexpm", optional: false]}], "hexpm", "08477a2195ccbf944da0b78f85dc4e6ee4498790e3dd7fe84ee7a245938e1b26"},
-  "xml_builder": {:hex, :xml_builder, "2.2.0", "cc5f1eeefcfcde6e90a9b77fb6c490a20bc1b856a7010ce6396f6da9719cbbab", [:mix], [], "hexpm", "9d66d52fb917565d358166a4314078d39ef04d552904de96f8e73f68f64a62c9"},
+  "xml_builder": {:hex, :xml_builder, "2.4.1", "6f3c00f3651a87a1ec97c9889889137f14fec38bd592e7a2a96f839166be9544", [:mix], [], "hexpm", "1b9a1146feb1e6c94e29d8acad0c8e7bf7d6df0ec68eb8c3501e47708da9eb00"},
 }
